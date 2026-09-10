@@ -54,6 +54,6 @@
 
 ## 🚀 Установка
 
-1. Скачайте `RepoHotSaver.exe` из [последнего релиза](../../releases/latest)
+1. Скачайте `RepoHotSaver.exe` из [последнего релиза](https://github.com/0ptim1st-DK/REPO-HotSaver/releases/latest) или [здесь]()
 2. Запустите файл (можно из любого места)
 3. Готово! Программа работает без установки Python
